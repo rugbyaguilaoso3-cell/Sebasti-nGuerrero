@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    padding: 40px;
+}
+
+.contenedor {
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+}
+
+.producto {
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}

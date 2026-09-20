@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    padding: 40px;
+}
+
+.contenedor {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+textarea {
+    width: 90%;
+    height: 150px;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#mostrar {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #eeeeee;
+}
