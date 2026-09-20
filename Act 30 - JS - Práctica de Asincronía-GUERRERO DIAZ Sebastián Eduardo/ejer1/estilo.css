@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#productos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.producto {
+    width: 250px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.producto img {
+    width: 150px;
+    height: 180px;
+    object-fit: contain;
+}
+
+#error {
+    text-align: center;
+}
